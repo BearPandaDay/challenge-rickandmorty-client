@@ -1,0 +1,31 @@
+.content-switch-signin-signup {
+    background-color: #8B8E90;
+    width: 100%;
+    max-width: 129px;
+    height: 100%;
+    max-height: 26px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-weight: bold;
+
+    .switth-left {
+        background-color: #656666;
+        border-radius: 8px;
+        width: 50%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .switth-right {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
